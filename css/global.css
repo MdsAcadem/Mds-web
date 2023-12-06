@@ -107,6 +107,7 @@ body {
     font-weight: normal;
     font-size: 1.83vw;
     color: white;
+    background-color:#2b3035;
 }
 .examples{
     display: flex;
